@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Kshitij Girkar!](https://github.com/girkarkshitij/)
+## Hey 👋, I'm Kshitij Girkar!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/girkarkshitij/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kshitij_girkar/)
