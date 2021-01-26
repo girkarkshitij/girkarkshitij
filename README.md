@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kshitij_girkar/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/KshitijGirkar)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=girkarkshitij.girkarkshitij&style=flat-square&color=0088cc)
+### Glad to see you here! 
 
 I'm a third year student pursuing Bachelors's in Computer Engineering 🎓 from Mumbai University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies ✨. 💻 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
