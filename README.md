@@ -23,18 +23,18 @@ I'm a third year student pursuing Bachelors's in Computer Engineering 🎓 from 
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & Sketching.
+- 💻 &nbsp; Exploring new tech stack and building cool stuffs.
+- 📚 &nbsp; Reading 
+- ✏ &nbsp; Drawing portraits
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="sass"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
@@ -64,7 +64,7 @@ I'm a third year student pursuing Bachelors's in Computer Engineering 🎓 from 
 	    <li><b>Laptop: </b> HP Notebook (i5)</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Terminal: </b> WSL </li>
-	    <li><b>Code Editor:</b> VSCode / IntelliJ.</li>
+	    <li><b>Code Editor/ IDE:</b> VSCode / IntelliJ.</li>
 	    <li><b>To Stay Updated:</b> Freecodecamp Blogs, Youtube, Linkedin, Medium </li>
 	    <br />
 	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/girkarkshitij/ef3193080cac5f26a7cf7299ee9d3315">Here</a>.
