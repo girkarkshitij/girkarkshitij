@@ -8,8 +8,6 @@
 
 I'm a third year student pursuing Bachelors's in Computer Engineering 🎓 from Mumbai University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies ✨. 💻 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-[![](https://gitwar.herokuapp.com/badge?username=girkarkshitij&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/girkarkshitij/girkarkshitij/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
