@@ -14,7 +14,7 @@ I'm a third year student pursuing Bachelors's in Computer Engineering 🎓 from 
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/girkarkshitij).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/girkarkshitij?tab=repositories).
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 👾 &nbsp; Fun fact: The first computer bug was an actual bug.
 - 📫 &nbsp; How to reach me: girkarkshitij@gmail.com.
