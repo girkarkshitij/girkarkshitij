@@ -62,7 +62,7 @@ I'm a third year student pursuing Bachelors's in Computer Engineering 🎓 from 
 	    <li><b>Laptop: </b> HP Notebook (i5)</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Terminal: </b> WSL </li>
-	    <li><b>Code Editor/ IDE:</b> VSCode / IntelliJ.</li>
+	    <li><b>Code Editor/ IDE:</b> VSCode / IntelliJ/ Neovim </li>
 	    <li><b>To Stay Updated:</b> Freecodecamp Blogs, Youtube, Linkedin, Medium </li>
 	    <br />
 	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/girkarkshitij/ef3193080cac5f26a7cf7299ee9d3315">Here</a>.
