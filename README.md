@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/girkarkshitij/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kshitij_girkar/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/girkarkshitij)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/KshitijGirkar)
 
 ### Glad to see you here! 
 
@@ -17,14 +16,7 @@ I'm a third year student pursuing Bachelors's in Computer Engineering 🎓 from 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/girkarkshitij?tab=repositories).
 - 💬 &nbsp; Ask me about anything! I am happy to help.
-- 👾 &nbsp; Fun fact: The first computer bug was an actual bug.
 - 📫 &nbsp; How to reach me: girkarkshitij@gmail.com.
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; Exploring new tech stack and building cool stuffs.
-- 📚 &nbsp; Reading 
-- ✏ &nbsp; Drawing portraits
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
@@ -55,21 +47,6 @@ I'm a third year student pursuing Bachelors's in Computer Engineering 🎓 from 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=girkarkshitij&hide_border=true" />
 </details>
  
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> HP Notebook (i5)</li>
-  	    <li><b>Browser: </b> Chrome</li>
-	    <li><b>Terminal: </b> WSL </li>
-	    <li><b>Code Editor/ IDE:</b> VSCode / IntelliJ/ Neovim </li>
-	    <li><b>To Stay Updated:</b> Freecodecamp Blogs, Youtube, Linkedin, Medium </li>
-	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/girkarkshitij/ef3193080cac5f26a7cf7299ee9d3315">Here</a>.
-	</ul>	
-</details>
-
 #
 
 <div align="center">
