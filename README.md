@@ -3,11 +3,11 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://girkarkshitij.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/girkarkshitij/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/girkarkshitij)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kshitij_girkar/)
+
 
 ### Glad to see you here! 
 
-I'm a final year student pursuing Bachelors's in Computer Engineering 🎓 from Mumbai University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies ✨. 💻 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies ✨. 💻 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/girkarkshitij/girkarkshitij/master/gifs/coder.gif" />
 
