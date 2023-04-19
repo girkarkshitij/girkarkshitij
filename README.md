@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://girkarkshitij.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/girkarkshitij/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/girkarkshitij)
+
 
 
 ### Glad to see you here! 
@@ -16,8 +16,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/girkarkshitij?tab=repositories).
-- 💬 &nbsp; Ask me about anything! I am happy to help.
-- 📫 &nbsp; How to reach me: girkarkshitij@gmail.com.
+
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
